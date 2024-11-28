@@ -1,1 +1,1 @@
-def testcode1(a, b): return  a / b
+def variation_20_subtract(a, b): return a - b
