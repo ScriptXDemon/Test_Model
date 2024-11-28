@@ -1,1 +1,1 @@
-def test2(s, e):  return s / e
+def test2(s, e):  return s + e
